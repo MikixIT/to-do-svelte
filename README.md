@@ -22,10 +22,12 @@ A simple To-Do app built with **Svelte**, made to learn and explore the basics o
 
 Clone the repo and install dependencies:
 
+Michael Torres
+
 ```bash
 git clone https://github.com/your-username/svelte-todo.git
 cd svelte-todo
 npm install
 npm run dev
 
-Michael Torres
+
